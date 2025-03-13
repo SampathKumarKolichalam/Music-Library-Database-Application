@@ -32,7 +32,7 @@ The **Music Library Database Application** is a **database-driven** system that 
 ## **Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/SampathKumarKolichalam/Music-Library-Database.git
+git clone https://github.com/SampathKumarKolichalam/Music-Library-Database-Application.git
 cd Music-Library-Database
 ```
 
