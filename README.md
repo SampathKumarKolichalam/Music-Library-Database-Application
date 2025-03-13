@@ -2,7 +2,6 @@
 🎵 **A lightweight and efficient music library with full CRUD operations!**
 ![image](https://github.com/user-attachments/assets/b95747fd-bf7b-4f88-b55f-be3bb6bddfb5)
 
-
 ---
 
 ## 🖥️ **About the Project**  
@@ -18,7 +17,6 @@ The **Music Library Database Application** is a **database-driven** system that 
 | **Database** | SQLite |
 | **API Type** | RESTful APIs |
 
-![Uploading image.png…]()
 
 ---
 
