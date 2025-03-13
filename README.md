@@ -103,7 +103,7 @@ DELETE /songs/{id}
 Fork the repo, make your changes, and submit a pull request!  
 
 ```sh
-git clone https://github.com/yourusername/Music-Library-Database.git
+git clone https://github.com/SampathKumarKolichalam/Music-Library-Database-Application.git
 git checkout -b feature-branch
 git commit -m "Added new feature"
 git push origin feature-branch
