@@ -1,15 +1,15 @@
-### 📌 **Music Library Database Application**  
-🎵 **A lightweight and efficient music library with full CRUD operations!**
+### 🎵 **Music Library Database Application**  
+ **A lightweight and efficient music library with full CRUD operations!**
 ![image](https://github.com/user-attachments/assets/b95747fd-bf7b-4f88-b55f-be3bb6bddfb5)
 
 ---
 
-## 🖥️ **About the Project**  
+## **About the Project**  
 The **Music Library Database Application** is a **database-driven** system that allows users to store, retrieve, update, and delete music records. It is built using **Python, SQLite, and the Bottle Framework**, with a RESTful API for seamless interactions.
 
 ---
 
-## 🚀 **Tech Stack**
+## **Tech Stack**
 | Technology  | Usage |
 |------------|--------------------------------|
 | **Programming Language** | Python |
@@ -20,37 +20,37 @@ The **Music Library Database Application** is a **database-driven** system that 
 
 ---
 
-## 🎯 **Key Features**
-✅ **Full CRUD Functionality** – Add, view, update, and delete songs  
-✅ **SQLite Database** – Lightweight, efficient, and scalable  
-✅ **RESTful API** – Seamless interaction between frontend and backend  
-✅ **Optimized Query Performance** – Fast data retrieval and storage  
-✅ **Minimal Dependencies** – Lightweight and easy to deploy  
+## **Key Features**
+- **Full CRUD Functionality** – Add, view, update, and delete songs.  
+- **SQLite Database** – Lightweight, efficient, and scalable.  
+- **RESTful API** – Seamless interaction between frontend and backend.  
+- **Optimized Query Performance** – Fast data retrieval and storage. 
+- **Minimal Dependencies** – Lightweight and easy to deploy.  
 
 ---
 
 ## **Installation & Setup**
-### **1️⃣ Clone the Repository**
+### **1.Clone the Repository**
 ```sh
 git clone https://github.com/SampathKumarKolichalam/Music-Library-Database-Application.git
 cd Music-Library-Database
 ```
 
-### **2️⃣ Install Dependencies**
+### **2.Install Dependencies**
 ```sh
 pip install bottle
 ```
 
-### **3️⃣ Run the Application**
+### **3.Run the Application**
 ```sh
 python app.py
 ```
-Now, open **http://127.0.0.1:8080/** in your browser. 🚀
+Now, open **http://127.0.0.1:8080/** in your browser. 
 
 ---
 
 ## **API Endpoints**
-### **1️⃣ Get All Songs**
+### **1.Get All Songs**
 ```sh
 GET /songs
 ```
@@ -61,7 +61,7 @@ GET /songs
 ]
 ```
 
-### **2️⃣ Add a New Song**
+### **2.Add a New Song**
 ```sh
 POST /songs
 ```
@@ -75,7 +75,7 @@ POST /songs
 }
 ```
 
-### **3️⃣ Update a Song**
+### **3.Update a Song**
 ```sh
 PUT /songs/{id}
 ```
@@ -89,7 +89,7 @@ PUT /songs/{id}
 }
 ```
 
-### **4️⃣ Delete a Song**
+### **4.Delete a Song**
 ```sh
 DELETE /songs/{id}
 ```
@@ -98,7 +98,7 @@ DELETE /songs/{id}
 
 ---
 
-## 🤝 **Contributing**
+## **Contributing**
 **Want to improve this project?**  
 Fork the repo, make your changes, and submit a pull request!  
 
@@ -111,14 +111,14 @@ git push origin feature-branch
 
 ---
 
-## 📜 **License**
+## **License**
 This project is free and access to all. Feel free to use and modify it.  
 
 ---
 
-## 👨‍💻 **Connect with Me**
-📧 Email: [sampathkumarkolichalam@gmail.com]  
+## **Connect with Me**
+**Email:** [sampathkumarkolichalam@gmail.com]  
 
-🔗 LinkedIn: [https://www.linkedin.com/in/sampath-kumar-kolichalam-18b57b1ab/]
+**LinkedIn:** [https://www.linkedin.com/in/sampath-kumar-kolichalam-18b57b1ab/]
 
 ---
